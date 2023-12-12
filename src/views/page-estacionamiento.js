@@ -113,7 +113,13 @@ const PageEstacionamiento = (props) => {
             Ingresa tu patente y obtén tu descuento de estacionamiento. ¡Tu
             viaje, tu beneficio! 🚗💨
           </h1>
-          <form className="page-estacionamiento-form"></form>
+          <div className="page-estacionamiento-container4">
+            <input
+              type="text"
+              placeholder="Ingrese aquí su patente"
+              className="page-estacionamiento-textinput input"
+            />
+          </div>
           <div className="page-estacionamiento-btn-group">
             <Link to="/" className="page-estacionamiento-navlink button">
               Aplicar Beneficio
@@ -128,7 +134,7 @@ const PageEstacionamiento = (props) => {
       </div>
       <div className="page-estacionamiento-footer">
         <footer className="page-estacionamiento-footer1">
-          <div className="page-estacionamiento-container4">
+          <div className="page-estacionamiento-container5">
             <img
               alt="image"
               src="/external/logo-falabella-200h.png"
@@ -143,7 +149,7 @@ const PageEstacionamiento = (props) => {
           >
             Términos y condiciones
           </a>
-          <div className="page-estacionamiento-container5">
+          <div className="page-estacionamiento-container6">
             <nav className="page-estacionamiento-nav1 page-estacionamiento-nav1">
               <a
                 href="https://www.falabella.com/falabella-cl/page/comprar-politica-cookies"
@@ -159,7 +165,7 @@ const PageEstacionamiento = (props) => {
             </nav>
           </div>
           <div className="page-estacionamiento-separator"></div>
-          <div className="page-estacionamiento-container6">
+          <div className="page-estacionamiento-container7">
             <span className="page-estacionamiento-text1">
               <span>© TODOS LOS DERECHOS RESERVADOS</span>
               <br></br>
