@@ -9,8 +9,8 @@ const PageRefresco = (props) => {
   return (
     <div className="page-refresco-container">
       <Helmet>
-        <title>PageRefresco - FalabellaEcco</title>
-        <meta property="og:title" content="PageRefresco - FalabellaEcco" />
+        <title>PageRefresco - FalabellaRewards</title>
+        <meta property="og:title" content="PageRefresco - FalabellaRewards" />
       </Helmet>
       <div className="page-refresco-header">
         <header

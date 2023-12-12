@@ -9,10 +9,10 @@ const PageEstacionamiento = (props) => {
   return (
     <div className="page-estacionamiento-container">
       <Helmet>
-        <title>PageEstacionamiento - FalabellaEcco</title>
+        <title>PageEstacionamiento - FalabellaRewards</title>
         <meta
           property="og:title"
-          content="PageEstacionamiento - FalabellaEcco"
+          content="PageEstacionamiento - FalabellaRewards"
         />
       </Helmet>
       <div className="page-estacionamiento-header">

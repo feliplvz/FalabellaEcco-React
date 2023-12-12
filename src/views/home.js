@@ -9,8 +9,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>FalabellaEcco</title>
-        <meta property="og:title" content="FalabellaEcco" />
+        <title>FalabellaRewards</title>
+        <meta property="og:title" content="FalabellaRewards" />
       </Helmet>
       <div className="home-header">
         <header data-thq="thq-navbar" className="home-navbar-interactive">

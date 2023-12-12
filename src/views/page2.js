@@ -9,8 +9,8 @@ const Page2 = (props) => {
   return (
     <div className="page2-container">
       <Helmet>
-        <title>Page2 - FalabellaEcco</title>
-        <meta property="og:title" content="Page2 - FalabellaEcco" />
+        <title>Page2 - FalabellaRewards</title>
+        <meta property="og:title" content="Page2 - FalabellaRewards" />
       </Helmet>
       <div className="page2-header">
         <header data-thq="thq-navbar" className="page2-navbar-interactive">
